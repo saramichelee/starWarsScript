@@ -27,6 +27,6 @@ OMDB Data:
   
 + LOAD
 
-![](C:/Users/nkovi/RICEHOU201906DATA1/StarWarsProj/starWarsScript/Images/OMDB_mongo.png)
+![OMDB screenshot](Images/OMDB_mongo.png)
  
  
